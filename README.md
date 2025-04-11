@@ -1,6 +1,6 @@
 # Simple DevOps Version Control Project
 
-dev branch
+
 This project demonstrates Git and GitHub best practices including:
 - Branching
 - Pull requests
